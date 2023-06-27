@@ -1,6 +1,7 @@
 
 # Uczniowskie Koło Informatyczne
 Społeczność uczniów działających w branży IT, bo przyszłość zaczyna się dzisiaj!
+
 [![Discord](https://canary.discord.com/api/guilds/985506805897629706/widget.png?style=banner2)](https://discord.uki.edu.pl)
 
 ## 🔎 Odwiedź nas:
