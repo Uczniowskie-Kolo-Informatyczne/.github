@@ -23,5 +23,5 @@ Społeczność uczniów działających w branży IT, bo przyszłość zaczyna si
 
 ## Kontakt
 
-Przez maila kontakt@uki.edu.pl lub discorda https://discord.uki.edu.pl/
+Prosimy o kontakt poprzez  emaila kontakt@uki.edu.pl bądź discorda https://discord.uki.edu.pl/
 
